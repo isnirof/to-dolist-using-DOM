@@ -1,0 +1,49 @@
+body {
+    background-color: #56455c;
+}
+
+header {
+    box-sizing: border-box;
+    background-color: #81326c;
+    width:100%;
+}
+
+.table thead tr{
+    background-color: #8d467a;
+    color: whitesmoke;
+}
+
+.table {
+    text-align: center;
+    margin: 10px auto;
+}
+
+section {
+    background-color: #b384a6;
+    width: 88%;
+    margin: 10px auto;
+}
+
+.form-control  {
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+
+footer {
+    background-color: #81326c;
+    height: 50px;
+    bottom: 0;
+}
+
+h5 {
+    text-align: center;
+    font-size: 15px;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
